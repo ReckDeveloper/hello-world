@@ -5,7 +5,7 @@ Hi Im Reck and Im writing my first rep
 
 | nome    | email   |
 |---------|---------|
-| Douglas | d@r.com |
+| Douglas | vad@r.com |
 
 🥳 Feliz aniversário
 
